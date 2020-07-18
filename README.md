@@ -4,6 +4,7 @@
 <img alt="web developer" src="https://drive.google.com/uc?id=1WV8UWDbxzqWGgRVs3-XNfjdSsf3XCwQ6" width="200" />
 
 **Desarrollador Web 👨‍💻**
+
 Trabajo como full-stack developer pero me gusta y apasiona laborar como front-end.
 
 Soy de Colombia 🇨🇴, de la ciudad de Cartagena de Indias, apasionado por el desarrollo web 👨‍💻 y videojuegos 🎮. Tengo 12 años de experiencia laboral.
