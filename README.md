@@ -25,8 +25,14 @@ Lenguajes y tecnologías que me gustan y que tengo excelentes conocimientos: `HT
 </a>
 
 #### 📝 Últimos artículos escritos en [dev.to](https://dev.to/corteshvictor):
+ - [Microfrontends](https://dev.to/corteshvictor/microfrontends-77h)
+ - [Tips en JavaScript](https://dev.to/corteshvictor/tips-o-trucos-javascript-16o8)
  - [Crear tu perfil de GitHub con README.md](https://dev.to/corteshvictor/crear-tu-perfil-de-github-con-readme-6fb)
  -  [Introducción sobre la librería Hybrids.js](https://dev.to/corteshvictor/introduccion-sobre-la-libreria-hybridsjs-ld2)
+
+#### 📝 Últimos artículos escritos en [medium.com](https://corteshvictor.medium.com/):
+ - [Microfrontends](https://medium.com/condorlabs-engineering/microfrontends-166998af1370)
+ -  [Tips en JavaScript](https://medium.com/condorlabs-engineering/tips-en-javascript-b56677f6fe36)
 
 #### 💌 Redes Sociales
 | Twitter | YouTube | DEV Community| LinkedIn |
