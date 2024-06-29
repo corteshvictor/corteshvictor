@@ -7,11 +7,11 @@
 
 Trabajo como full-stack developer pero me gusta y apasiona laborar como front-end.
 
-Soy de Colombia 🇨🇴, de la ciudad de Cartagena de Indias, apasionado por el desarrollo web 👨‍💻 y videojuegos 🎮. Tengo 12 años de experiencia laboral.
-
+Soy de Colombia 🇨🇴, de la ciudad de Cartagena de Indias, apasionado por el desarrollo web 👨‍💻 y videojuegos 🎮. Tengo 15+ años de experiencia laboral.
 Me considero una persona con iniciativa, liderazgo, trabajo en equipo, muy responsable en mis decisiones y actuaciones. 
-
 Lenguajes y tecnologías que me gustan y que tengo excelentes conocimientos: `HTML5`, `CSS3`, `JavaScript`, `React.js` , `Node.js`, entre otros.
+
+**NOTA:** Esta es mi otra cuenta de Github https://github.com/victorhcortesp
 
 #### 🎥 Algunos videos en mi canal de Youtube:
 <a href="https://youtu.be/CUQNJi4cB58" target="_blank">
@@ -37,7 +37,7 @@ Lenguajes y tecnologías que me gustan y que tengo excelentes conocimientos: `HT
 #### 💌 Redes Sociales
 | Twitter | YouTube | DEV Community| LinkedIn |
 | :---: | :---: | :---:| :---:|
-|<a href="https://twitter.com/corteshvictor" target="_blank"><img src="https://corteshvictor.dev/assets/icons/twitter.svg" alt="Perfil de twitter" width="40"></a>|<a href="https://www.youtube.com/victorhugocortesposada" target="_blank"><img src="https://corteshvictor.dev/assets/icons/youtube.svg" alt="Canal youtube" width="40"></a>|<a href="https://dev.to/corteshvictor" target="_blank"><img src="https://corteshvictor.dev/assets/icons/dev-black.svg" alt="Perfil de dev.to" width="40"></a>|<a href="https://www.linkedin.com/in/corteshvictor" target="_blank"><img src="https://static-exp1.licdn.com/sc/h/cyb7crlxy6gz8o837q7rx5ni4" alt="Perfil de LinkedIn" width="40"></a>|
+|<a href="https://twitter.com/corteshvictor" target="_blank"><img src="https://corteshvictor.dev/assets/icons/twitter.svg" alt="Perfil de twitter" width="40"></a>|<a href="https://www.youtube.com/victorhugocortesposada" target="_blank"><img src="https://corteshvictor.dev/assets/icons/youtube.svg" alt="Canal youtube" width="40"></a>|<a href="https://dev.to/corteshvictor" target="_blank"><img src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="Perfil de dev.to" width="40"></a>|<a href="https://www.linkedin.com/in/corteshvictor" target="_blank"><img src="https://static-exp1.licdn.com/sc/h/cyb7crlxy6gz8o837q7rx5ni4" alt="Perfil de LinkedIn" width="40"></a>|
 
 <!--
 ### Skills
