@@ -2,7 +2,8 @@
 
 **Full-Stack Developer** · apasionado por el **front-end** 👨‍💻 · **más de 15 años** de experiencia
 
-🇨🇴 Desde **Colombia**. Me mueven el desarrollo web y los videojuegos 🎮. Construyo software, lidero equipos y comparto lo que aprendo en charlas, videos y artículos.
+🇨🇴 Desde **Colombia**. Me mueven el desarrollo web y los videojuegos 🎮.
+Construyo software, lidero equipos y comparto lo que aprendo en charlas, videos y artículos.
 
 🌐 [corteshvictor.dev](https://corteshvictor.dev) · ✍️ [dev.to](https://dev.to/corteshvictor) · [Medium](https://corteshvictor.medium.com/)
 
@@ -12,13 +13,19 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat&labelColor=232F3E)](https://www.credly.com/badges/a0cee97e-4ad3-4b10-9547-27b2184b4780/linked_in_profile)
 
 ---
 
@@ -28,14 +35,14 @@
 
 Runtime open-source y multiplataforma que orquesta **agentes de IA** para tareas de software reales. Decide las transiciones a partir de **evidencia que él mismo verifica** (corre los tests/lint/typecheck del proyecto), nunca de lo que el agente diga. Un binario, stack-agnóstico (Node, Python, Rust, Go…).
 
-[![vichu-flow](https://github-readme-stats.vercel.app/api/pin/?username=corteshvictor&repo=vichu-flow)](https://github.com/corteshvictor/vichu-flow)
+[![Estrellas](https://img.shields.io/github/stars/corteshvictor/vichu-flow?style=flat&logo=github&label=stars)](https://github.com/corteshvictor/vichu-flow/stargazers)
+![Lenguaje principal](https://img.shields.io/github/languages/top/corteshvictor/vichu-flow)
+![Último commit](https://img.shields.io/github/last-commit/corteshvictor/vichu-flow)
 
+- **[corteshvictor.dev](https://github.com/corteshvictor/corteshvictor.dev)** · `JS` — mi sitio y blog personal, publicado y en línea en [corteshvictor.dev](https://corteshvictor.dev)
 - **[hybrids-introduction](https://github.com/corteshvictor/hybrids-introduction)** · `JS` — base de mi charla de Hybrids 🎤
-- **[portfolio-corteshvictor](https://github.com/corteshvictor/portfolio-corteshvictor)** · `Astro` — mi portafolio
 - **[rick-and-morty-memory-game](https://github.com/corteshvictor/rick-and-morty-memory-game)** · `React/TS` — juego de memoria con la API de Rick & Morty
 - **[InstaStore](https://github.com/corteshvictor/InstaStore)** · `TS` — microservicio que elige la tienda más cercana para un pedido B2B
-
-> 📌 Fija estos repos en tu perfil: página de GitHub → *"Customize your pins"*.
 
 ---
 
@@ -60,19 +67,11 @@ Runtime open-source y multiplataforma que orquesta **agentes de IA** para tareas
 
 ---
 
-### 📊 GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=corteshvictor&show_icons=true&hide_border=true&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=corteshvictor&layout=compact&hide_border=true)
-
----
-
 ### 🤝 Conéctate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corteshvictor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/corteshvictor)
 [![X / Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/corteshvictor)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/victorhugocortesposada)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/corteshvictor)
-[![Website](https://img.shields.io/badge/corteshvictor.dev-4B0082?style=flat&logo=firefox&logoColor=white)](https://corteshvictor.dev)
 
 > 💡 Mi otra cuenta de GitHub: [@victorhcortesp](https://github.com/victorhcortesp)
