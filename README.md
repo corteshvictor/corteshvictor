@@ -1,72 +1,78 @@
+# 👋 Hola, soy Victor Hugo Cortés
 
-## 😊 Mucho gusto, mi nombre es Victor Hugo Cortés 
+**Full-Stack Developer** · apasionado por el **front-end** 👨‍💻 · **más de 15 años** de experiencia
 
-<img alt="web developer" src="https://drive.google.com/uc?id=1WV8UWDbxzqWGgRVs3-XNfjdSsf3XCwQ6" width="200" />
+🇨🇴 Desde **Colombia**. Me mueven el desarrollo web y los videojuegos 🎮. Construyo software, lidero equipos y comparto lo que aprendo en charlas, videos y artículos.
 
-**Desarrollador Web 👨‍💻**
+🌐 [corteshvictor.dev](https://corteshvictor.dev) · ✍️ [dev.to](https://dev.to/corteshvictor) · [Medium](https://corteshvictor.medium.com/)
 
-Trabajo como full-stack developer pero me gusta y apasiona laborar como front-end.
+---
 
-Soy de Colombia 🇨🇴, de la ciudad de Cartagena de Indias, apasionado por el desarrollo web 👨‍💻 y videojuegos 🎮. Tengo 15+ años de experiencia laboral.
-Me considero una persona con iniciativa, liderazgo, trabajo en equipo, muy responsable en mis decisiones y actuaciones. 
-Lenguajes y tecnologías que me gustan y que tengo excelentes conocimientos: `HTML5`, `CSS3`, `JavaScript`, `React.js` , `Node.js`, entre otros.
+### 🛠️ Stack
 
-**NOTA:** Esta es mi otra cuenta de Github https://github.com/victorhcortesp
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-#### 🎥 Algunos videos en mi canal de Youtube:
-<a href="https://youtu.be/CUQNJi4cB58" target="_blank">
-	<img width="200" src="https://corteshvictor.dev/assets/images/hybrids-full-logo.svg" alt="Librería Hybrids - ¿Qué es hybrids?" />
-</a>
-<a href="https://www.youtube.com/playlist?list=PLtevYMB52z4ZdaI-cg2B2x3kTcUl1bO-x" target="_blank">
-	<img width="150" src="https://i.ytimg.com/vi/XfDModFBCSk/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLC0Fa5Eo6EJt6CHUZy_1wBrn6f2hA" alt="Videos sobre Microsoft Excel" />
-</a>
-<a href="https://www.youtube.com/playlist?list=PLtevYMB52z4Y3-uja2_5TRA_enZtRdXde" target="_blank">
-	<img width="150" src="https://i.ytimg.com/vi/YqnggwQffrA/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDF0ibg_DEyOB_eQwQPVH-y6uR67w" alt="Videos sobre Modern Combat 5" />
-</a>
+---
 
-#### 📝 Últimos artículos escritos en [dev.to](https://dev.to/corteshvictor):
- - [Microfrontends](https://dev.to/corteshvictor/microfrontends-77h)
- - [Tips en JavaScript](https://dev.to/corteshvictor/tips-o-trucos-javascript-16o8)
- - [Crear tu perfil de GitHub con README.md](https://dev.to/corteshvictor/crear-tu-perfil-de-github-con-readme-6fb)
- -  [Introducción sobre la librería Hybrids.js](https://dev.to/corteshvictor/introduccion-sobre-la-libreria-hybridsjs-ld2)
+### ⭐ Proyectos destacados
 
-#### 📝 Últimos artículos escritos en [medium.com](https://corteshvictor.medium.com/):
- - [Microfrontends](https://medium.com/condorlabs-engineering/microfrontends-166998af1370)
- -  [Tips en JavaScript](https://medium.com/condorlabs-engineering/tips-en-javascript-b56677f6fe36)
+#### 🧩 [vichu-flow](https://github.com/corteshvictor/vichu-flow) · `Go`
 
-#### 💌 Redes Sociales
-| Twitter | YouTube | DEV Community| LinkedIn |
-| :---: | :---: | :---:| :---:|
-|<a href="https://twitter.com/corteshvictor" target="_blank"><img src="https://corteshvictor.dev/assets/icons/twitter.svg" alt="Perfil de twitter" width="40"></a>|<a href="https://www.youtube.com/victorhugocortesposada" target="_blank"><img src="https://corteshvictor.dev/assets/icons/youtube.svg" alt="Canal youtube" width="40"></a>|<a href="https://dev.to/corteshvictor" target="_blank"><img src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="Perfil de dev.to" width="40"></a>|<a href="https://www.linkedin.com/in/corteshvictor" target="_blank"><img src="https://static-exp1.licdn.com/sc/h/cyb7crlxy6gz8o837q7rx5ni4" alt="Perfil de LinkedIn" width="40"></a>|
+Runtime open-source y multiplataforma que orquesta **agentes de IA** para tareas de software reales. Decide las transiciones a partir de **evidencia que él mismo verifica** (corre los tests/lint/typecheck del proyecto), nunca de lo que el agente diga. Un binario, stack-agnóstico (Node, Python, Rust, Go…).
 
-<!--
-### Skills
-<p align="left">
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> 
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> 
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> 
-	<img src="https://konpa.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30" height="30"/> 
-</p>
--->
+[![vichu-flow](https://github-readme-stats.vercel.app/api/pin/?username=corteshvictor&repo=vichu-flow)](https://github.com/corteshvictor/vichu-flow)
 
-<!--
-**corteshvictor/corteshvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[hybrids-introduction](https://github.com/corteshvictor/hybrids-introduction)** · `JS` — base de mi charla de Hybrids 🎤
+- **[portfolio-corteshvictor](https://github.com/corteshvictor/portfolio-corteshvictor)** · `Astro` — mi portafolio
+- **[rick-and-morty-memory-game](https://github.com/corteshvictor/rick-and-morty-memory-game)** · `React/TS` — juego de memoria con la API de Rick & Morty
+- **[InstaStore](https://github.com/corteshvictor/InstaStore)** · `TS` — microservicio que elige la tienda más cercana para un pedido B2B
 
-Here are some ideas to get you started:
+> 📌 Fija estos repos en tu perfil: página de GitHub → *"Customize your pins"*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎤 Charlas y videos
+
+- **¿Qué es Hybrids?** — introducción a la librería Hybrids.js → [ver charla](https://youtu.be/CUQNJi4cB58)
+- 📺 Más contenido en mi canal: [YouTube](https://www.youtube.com/victorhugocortesposada)
+
+---
+
+### ✍️ Últimos artículos
+
+**En [dev.to](https://dev.to/corteshvictor):**
+- [Microfrontends](https://dev.to/corteshvictor/microfrontends-77h)
+- [Tips o trucos en JavaScript](https://dev.to/corteshvictor/tips-o-trucos-javascript-16o8)
+- [Crear tu perfil de GitHub con README.md](https://dev.to/corteshvictor/crear-tu-perfil-de-github-con-readme-6fb)
+- [Introducción a la librería Hybrids.js](https://dev.to/corteshvictor/introduccion-sobre-la-libreria-hybridsjs-ld2)
+
+**En [Medium](https://corteshvictor.medium.com/):**
+- [Microfrontends](https://medium.com/condorlabs-engineering/microfrontends-166998af1370)
+- [Tips en JavaScript](https://medium.com/condorlabs-engineering/tips-en-javascript-b56677f6fe36)
+
+---
+
+### 📊 GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=corteshvictor&show_icons=true&hide_border=true&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=corteshvictor&layout=compact&hide_border=true)
+
+---
+
+### 🤝 Conéctate
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corteshvictor)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/corteshvictor)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/victorhugocortesposada)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/corteshvictor)
+[![Website](https://img.shields.io/badge/corteshvictor.dev-4B0082?style=flat&logo=firefox&logoColor=white)](https://corteshvictor.dev)
+
+> 💡 Mi otra cuenta de GitHub: [@victorhcortesp](https://github.com/victorhcortesp)
